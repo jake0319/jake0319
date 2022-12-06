@@ -16,8 +16,7 @@
 #### (한국대학생IT경영학회) 26기 | 22. 8 ~ 22.11.26
 <br>
 
-#### Google Developer Student Club Seoultech 2nd_member |  22.9 ~ ( Still In Progress)
-
+#### Google Developer Student Club Seoultech 2nd_member |  22.9 ~ 
 
 
 <br>
