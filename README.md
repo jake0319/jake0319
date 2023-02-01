@@ -1,19 +1,17 @@
 <div align=center>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20Jake's%20GitHub&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20Jake's%20github&fontSize=50)
 
-#  For about Me 
 
-## I'm Hyunjun Shim 👋 (Jake)
 <br>
 
-### 🏫  Seoul National Univ. of Science and Technology 20.  <br>
-### - Majoring in Industrial Engineering 
+###  Seoul National Univ. of Science and Technology 20.  <br>
+### - Major  in Industrial Engineering 
 <br>
 
 ### Korean University Students IT & Management Society 
-#### (한국대학생IT경영학회) 26기 | 22. 8 ~ 22.11.26
+#### KUSTISM 26th | 22. 8 ~ 22.11.26
 <br>
 
 #### Google Developer Student Club Seoultech 2nd_member |  22.9 ~ 
