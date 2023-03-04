@@ -27,12 +27,30 @@
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
-
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+ 
+  <br>
+ 
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
- <img src="https://img.shields.io/badge/RTK-764ABC?style=flat&logo=Redux&logoColor=white"/>
- <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=React Router&logoColor=white"/>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
- <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=StyledComponents&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Emotion-232323?style=flat&logo=Emotion&logoColor=white"/>
+ <img src="https://img.shields.io/badge/RTK-764ABC?style=flat&logo=Redux&logoColor=white"/>  
+ <img src="https://img.shields.io/badge/Recoil-232323?style=flat&logo=Recoil&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>  
+ 
+ <br>
+ 
+
+
+
+
+
+ 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+ 
+ <br>
+ 
+ 
+
 
 <br>
 <br>
@@ -49,10 +67,7 @@
 
 <br>
 
-### 🏃🏻In progress
- <img src="https://img.shields.io/badge/Recoil.js-232323?style=flat&logo=Recoil&logoColor=white"/>
- <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
 
 <br>
 <br>
