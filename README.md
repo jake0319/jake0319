@@ -6,15 +6,12 @@
 
 <br>
 
-###  Seoul National Univ. of Science and Technology 20.  <br>
-### - Major  in Industrial Engineering 
-<br>
-
 ### Korean University Students IT & Management Society 
 #### KUSTISM 26th | 22. 8 ~ 22.11.26
+ 
 <br>
 
-#### Google Developer Student Club Seoultech 2nd_member |  22.9 ~ 
+### Google Developer Student Club Seoultech 2nd_member |  22.9 ~ 
 
 
 <br>
@@ -32,10 +29,10 @@
   <br>
  
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
- <img src="https://img.shields.io/badge/Emotion-232323?style=flat&logo=Emotion&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Emotion.js-232323?style=flat&logo=Emotion&logoColor=white"/>
  <img src="https://img.shields.io/badge/FramerMotion-232323?style=flat&logo=FramerMotion&logoColor=white"/>
 <!--  <img src="https://img.shields.io/badge/RTK-764ABC?style=flat&logo=Redux&logoColor=white"/>   -->
- <img src="https://img.shields.io/badge/Recoil-232323?style=flat&logo=Recoil&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Recoil.js-232323?style=flat&logo=Recoil&logoColor=white"/>
  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>  
  
  <br>
