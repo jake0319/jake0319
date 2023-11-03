@@ -9,7 +9,7 @@ Hyunjun Shim, a meticulous web **frontend developer** focusing on efficient fron
   
 Always try to learn new technologies with in a **dillgent** atttitude.
 
-Résumé  : [**Click Here!**](https://heavy-saw-aa3.notion.site/Web-Frontend-Developer-610a5cb6f44247988873501035cd5e61?pvs=4)  
+Résumé  : [**Click Here!**](https://heavy-saw-aa3.notion.site/Web-Frontend-Developer-4c317bba44074d3d9f169700b25b76cd?pvs=4)  
 **Contact** : tlaguswns8@gmail.com
 
 <br>
