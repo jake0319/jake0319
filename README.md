@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=3178C6&height=140&section=header&text=Jake's%20Github%20&fontColor=CECECE&fontSize=80&animation=fadeIn)
 
 
-<div align=left>  
-<br>
-
- Résumé  : [**[ CLICK HERE! ]**](https://heavy-saw-aa3.notion.site/Web-Frontend-Developer-2c183e3213e2471fb7248d7026463d87?pvs=4)  
- Contact : tlaguswns8@gmail.com  
- Blog : https://nomad-12.tistory.com
-<br>
+<div align="left">
+<table>
+<tr><td>Résumé</td><td><a href="https://heavy-saw-aa3.notion.site/Web-Frontend-Developer-2c183e3213e2471fb7248d7026463d87?pvs=4"><strong>CLICK HERE!</strong></a></td></tr>
+<tr><td>Contact</td><td>tlaguswns8@gmail.com</td></tr>
+<tr><td>Blog</td><td><a href="https://nomad-12.tistory.com">https://nomad-12.tistory.com</a></td></tr>
+</table>
+</div>
    
 ## Skills.
 
