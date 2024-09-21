@@ -4,9 +4,9 @@
 <div align=left>  
 <br>
 
-- Résumé  : [**[ CLICK HERE! ]**](https://heavy-saw-aa3.notion.site/Web-Frontend-Developer-2c183e3213e2471fb7248d7026463d87?pvs=4)  
-- Contact : tlaguswns8@gmail.com  
-- Blog : https://nomad-12.tistory.com
+ Résumé  : [**[ CLICK HERE! ]**](https://heavy-saw-aa3.notion.site/Web-Frontend-Developer-2c183e3213e2471fb7248d7026463d87?pvs=4)  
+ Contact : tlaguswns8@gmail.com  
+ Blog : https://nomad-12.tistory.com
 <br>
    
 ## Skills.
