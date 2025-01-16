@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=3178C6&height=140&section=header&text=Jake's%20Github%20&fontColor=CECECE&fontSize=80&animation=fadeIn)
-
 
 <div align="left">
 <table>
